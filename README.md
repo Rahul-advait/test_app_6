@@ -22,3 +22,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+I am learning Ruby on rails and scared as well as exciting.
