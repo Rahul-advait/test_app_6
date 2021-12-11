@@ -24,3 +24,4 @@ Things you may want to cover:
 * ...
 
 I am learning Ruby on rails and scared as well as exciting.
+This is second time i am trying to push the code into github.com
